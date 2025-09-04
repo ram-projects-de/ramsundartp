@@ -31,15 +31,15 @@
 
 ## 📂 Featured Projects  
 
-- **Personal Education Counsellor (AI Chatbot)** 🎓🤖 [https://github.com/ram-projects-de/personal-education-counsellor]  
+- **Personal Education Counsellor (AI Chatbot)** 🎓🤖 [https://github.com/ramsundartp16/personal-education-counsellor]  
   - AI-powered chatbot for international students using **Microsoft Azure Language Studio**.  
   - Provides university/program recommendations, visa & exam guidance, and FAQ support.  
 
-- **Financial Analysis - EA Stock** 📊 [https://github.com/ram-projects-de/EA_Stock_Analysis]  
+- **Financial Analysis - EA Stock** 📊 [https://github.com/ramsundartp16/EA_Stock_Analysis]  
   - Data analysis project focusing on **Electronic Arts (EA) stock trends**.  
   - Explored historical data, price movements, and performance metrics to derive investment insights.  
 
-- **Medicine Recommendation System** ⛅ [https://github.com/ram-projects-de/medicine-recommendation-system]  
+- **Medicine Recommendation System** ⛅ [https://github.com/ramsundartp16/medicine-recommendation-system]  
   - Machine learning–based system recommending medicines based on symptoms and patient data.  
   - Designed to assist healthcare decision-making with reliable and accurate suggestions.  
 
@@ -47,9 +47,9 @@
 
 ## 📊 GitHub Stats  
 
-![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ram-projects-de&show_icons=true&theme=radical)  
+![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramsundartp16&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ram-projects-de&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramsundartp16&layout=compact&theme=radical)  
 
 ---
 
