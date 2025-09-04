@@ -55,7 +55,7 @@
 
 ## 📫 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ram-sundar-t-p-a0712597)  
-- 📧 Email: ram.sundar0016@gmail.com
+- 📧 [Email](ram.sundar0016@gmail.com)
 
 ---
 
